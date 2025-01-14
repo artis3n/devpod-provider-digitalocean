@@ -8,6 +8,7 @@ optionGroups:
       - DISK_SIZE
       - DISK_IMAGE
       - MACHINE_TYPE
+      - REGION
     name: "Digital Ocean options"
   - options:
       - AGENT_PATH
